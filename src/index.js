@@ -10,8 +10,8 @@ import "./index.css";
 
 // Import Components
 import App from "./App";
-import store  from './redux/store'
-import persistor from './redux/store'
+import { store, persistor } from './redux/store'
+//import  from './redux/store'
 
 // ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ //
 
